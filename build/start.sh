@@ -1,7 +1,6 @@
 echo "DOMAIN: $DOMAIN"
 
 # *************** Environment Variables ************** #
-
 ## envs - global
 EXTERNAL_HTTP_SCHEMA=${EXTERNAL_HTTP_SCHEMA:-https}
 
